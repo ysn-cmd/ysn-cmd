@@ -25,8 +25,8 @@ I come from the engineering side — I like understanding how things work undern
 
 ### 🚀 Featured Projects
 
-- 🔑 **[passwordingding](https://github.com/ysn-cmd/undodecider)** — A secure password generator written in C, built on cryptographically secure randomness. A small project with a security-first mindset — getting the randomness right instead of just "random enough."
-- ⚡ **[Shutdownir](https://github.com/ysn-cmd/Shutdownir)** — A utility that monitors Steam downloads and automatically shuts down the system once they finish. Practical automation that solves a real annoyance.
+- 🔑 **[undodecider](https://github.com/ysn-cmd/undodecider)** — A secure password generator written in C, built on cryptographically secure randomness. A small project with a security-first mindset — getting the randomness right instead of just "random enough."
+- ⚡ **[save-e](https://github.com/ysn-cmd/Shutdownir)** — A utility that monitors Steam downloads and automatically shuts down the system once they finish. Practical automation that solves a real annoyance.
 - 🧭 **[meridien](https://github.com/ysn-cmd/meridien)** — Plugin-based security scanning and reporting platform that orchestrates recon, DAST and SAST tools into a unified findings schema.
 
 📌 Pinned on my profile.
