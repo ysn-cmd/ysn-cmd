@@ -12,7 +12,7 @@ ROLES = ["Penetration Tester", "Red Teamer", "Security Researcher", "Software En
 
 INFO = [
     ("~/university", "Konya Technical University"),
-    ("~/role",       "VP, Cyber Security Community"),
+    ("~/role",       "President, Cyber Security Community"),
     ("~/focus",      "Web Pentesting - Vuln Research - AI Red Teaming"),
     ("~/goal",       "OSCP+ Certification"),
     ("~/github",     "github.com/ysn-cmd"),
