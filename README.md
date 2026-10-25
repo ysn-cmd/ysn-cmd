@@ -33,7 +33,7 @@ I come from the engineering side — I like understanding how things work undern
 
 ### Currently working toward
 
-**· OSCP+ · HTB Ai Red Teamer · HTB Penertation Tester**
+**· OSCP+ · HTB Ai Red Teamer · HTB Penetration Tester**
 
 ### 🤝 Connect
 
